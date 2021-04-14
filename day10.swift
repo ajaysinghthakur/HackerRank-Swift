@@ -6,6 +6,7 @@ func takeInputInteger() -> Int {
 	
 	return testCase
 }
+
 func decTobinary(_ n:Int) -> [Int] {
 	var remArray: [Int] = []
 	var varNum = n
@@ -37,6 +38,7 @@ func getMaxLength( _ arrInt: [Int]) -> Int {
 	
 	return result
 }
+
 func main() {
 	let input = takeInputInteger()
 	let binaryArr = decTobinary(input)
