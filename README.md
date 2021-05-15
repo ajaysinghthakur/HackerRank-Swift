@@ -42,7 +42,7 @@ This repository contains my solutions to challenges from hackerrank.com. Solutio
 
 ### Tutorials
 
-##### [30 Days of Code](30%Days%of%Code/)
+##### [30 Days of Code](../../tree/main/30%20Days%20of%20Code/)
 - [x] `30 Challenges completed`
 
 ##### [Cracking the Coding Interview](Cracking%the%Coding%Interview/)
